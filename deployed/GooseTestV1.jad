@@ -1,0 +1,9 @@
+MIDlet-1: GooseTest,GooseIcon31_31.png,gui.goose.menus.UIGooseManager
+MIDlet-Icon: GooseIcon_31_31.png
+MIDlet-Jar-Size: 900210
+MIDlet-Jar-URL: GooseTestV1.jar
+MIDlet-Name: GooseTestV1 Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
